@@ -1,0 +1,11 @@
+Package: SegmentsUtil
+Type: Package
+Title: Wrappers of Segmentation functions 
+Version: 0.1.0
+Author: Simon Skorna
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Wrraping qunatile function, k-means and apriori algorithm
+    to usable form for bi clustering
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
